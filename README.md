@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Alt Text](https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif)
+
+
 ![Matheus Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=1matheusmendes&show_icons=true&theme=highcontrast)
